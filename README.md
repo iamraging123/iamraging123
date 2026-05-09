@@ -1,13 +1,13 @@
 # Hi, I'm Luka
 
-Student at the **University Laboratory Highschool**  
+Student at the **University Laboratory Highschool** — **4.0 / 4.0 GPA**  
 I love to build things!
 
-📫 Reach me at **lukaeg@illinois.edu**
+Reach me at **lukaeg@illinois.edu**
 
 ---
 
-## 🛠 Languages & Frameworks
+## Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -18,7 +18,7 @@ I love to build things!
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## ⚙️ Hardware & CAD
+##  Hardware & CAD
 
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
@@ -28,14 +28,14 @@ I love to build things!
 ![DFM](https://img.shields.io/badge/-DFM-455A64?style=flat&logoColor=white)
 ![Klipper](https://img.shields.io/badge/-Klipper-D32F2F?style=flat&logoColor=white)
 
-## 🎨 Creative & Design
+##  Creative & Design
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 
-## 🧪 Simulation & Analysis
+##  Simulation & Analysis
 
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/-Simulink-990000?style=flat&logoColor=white)
@@ -44,7 +44,7 @@ I love to build things!
 
 ---
 
-##  What I'm Listening To
+##  What I'm Listening To!
 
 
 [![Now playing](https://lastfm-recently-played.vercel.app/api?user=nokityhere)](https://www.last.fm/user/<YOUR_LASTFM>)
