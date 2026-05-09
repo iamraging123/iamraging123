@@ -3,7 +3,7 @@
 Student at the **University Laboratory Highschool**  
 I love to build things!
 
-Reach me at **lukaeg@illinois.edu**
+📫 Reach me at **lukaeg@illinois.edu**
 
 ---
 
@@ -11,13 +11,8 @@ Reach me at **lukaeg@illinois.edu**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## ⚙️ Hardware & CAD
@@ -25,7 +20,16 @@ Reach me at **lukaeg@illinois.edu**
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
 ![Onshape](https://img.shields.io/badge/-Onshape-1B72B8?style=flat&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-2E7D32?style=flat&logoColor=white)
+![DFM](https://img.shields.io/badge/-DFM-455A64?style=flat&logoColor=white)
+
+## 🧪 Simulation & Analysis
+
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/-Simulink-990000?style=flat&logoColor=white)
+![FEA](https://img.shields.io/badge/-FEA-6A1B9A?style=flat&logoColor=white)
+![CFD](https://img.shields.io/badge/-CFD-0277BD?style=flat&logoColor=white)
 
 ---
 
