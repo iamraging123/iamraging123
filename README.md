@@ -11,7 +11,10 @@ I love to build things!
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -23,6 +26,14 @@ I love to build things!
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-2E7D32?style=flat&logoColor=white)
 ![DFM](https://img.shields.io/badge/-DFM-455A64?style=flat&logoColor=white)
+![Klipper](https://img.shields.io/badge/-Klipper-D32F2F?style=flat&logoColor=white)
+
+## 🎨 Creative & Design
+
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 
 ## 🧪 Simulation & Analysis
 
