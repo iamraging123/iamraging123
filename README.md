@@ -1,4 +1,4 @@
-# Hi, I'm Luka
+# Hi, I'm Luka ⛷️🏂
 
 Student at the **University Laboratory Highschool** — **4.0 / 4.0 GPA**  
 I love to build things!
