@@ -52,5 +52,5 @@ Reach me at **lukaeg@illinois.edu**
 
 ---
 
-<h2 align="center"><i>“You Don’t Know Which Wind Is Favorable if You Don’t Know Your Dock”</i></h2>
+## _“You Don’t Know Which Wind Is Favorable if You Don’t Know Your Dock”_
 
