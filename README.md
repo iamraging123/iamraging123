@@ -3,6 +3,8 @@
 Student at the **University Laboratory Highschool** — **4.0 / 4.0 GPA**  
 I love to build things!
 
+[Check out my website!](https://iamraging123.github.io/LukaGruev/)
+
 Reach me at **lukaeg@illinois.edu**
 
 ---
