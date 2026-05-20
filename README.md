@@ -1,6 +1,6 @@
 # Hi, I'm Luka ⛷️🏂
 
-Student at **University Laboratory Highschool** — **4.0 / 4.0 GPA**  
+Student at **University Laboratory Highschool** 
 I love to build things!
 
 [Check out my website!](https://iamraging123.github.io/LukaGruev/)
